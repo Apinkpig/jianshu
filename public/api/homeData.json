@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "故事",
+        "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "摄影",
+        "imgUrl": "//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 3,
+        "title": "历史",
+        "imgUrl": "//upload.jianshu.io/collections/images/75/22.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 4,
+        "title": "读书",
+        "imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 5,
+        "title": "人文社科",
+        "imgUrl": "//upload.jianshu.io/collections/images/494271/51164a1egd7b1a4a7c491_690.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 6,
+        "title": "手绘",
+        "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 7,
+        "title": "简书电影",
+        "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "2018中国大学毕业生薪酬排行TOP200，读书无用论都是骗人的",
+        "desc": "山川网：近日，中国薪酬网发布了《2018年中国大学毕业生薪酬排行榜》。通过比较高校毕业生毕业后一年、三年、五年的平均月薪，对中国的高校“钱景”进..."
+      },
+      {
+        "id": 2,
+        "title": "村上春树能从一个酒吧老板成为一个世界级作家，关键在于什么？",
+        "desc": "为什么村上春树能从一个酒吧老板成为一个世界级作家，关键在于什么？ 1、村上是天才小说家。 2、如果说村上的天赋已经甩开他人100倍，那么村上的努...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/193758-8b242f410975705d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 3,
+        "title": "怎样在短时间内提高学习能力？",
+        "desc": "当你的内化知识的能力增强的时候，你会觉得学习轻松了许多，甚至你会觉得学习可以是一件很快乐的事。 过去，我学了的新知识很容易忘记，用于实践也要花很...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/4853387-78341ced690c73a4.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 4,
+        "title": "提升写作效率的8款神器：碎片灵感不再丢",
+        "desc": "1.印象笔记 印象笔记作为“第二大脑”，随时随地搜集、整理、内化为属于自己的信息，成为人类大脑的延伸。 积累写作灵感。写诗总缺乏灵感，不如说是缺...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/137912-97d330505bcea7af.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 5,
+        "title": "《如何阅读一本书》-----让我们远离读书焦虑",
+        "desc": "读的太快或太慢，都一无所获。 ———法国学者帕斯卡尔 最近趁电商618搞活动买了很多书，平均下来每本十几块钱，...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/7843202-213e77959c369418.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "static/image/7.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "static/image/8.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "static/image/9.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "static/image/10.png"
+      },
+      {
+        "id": 5,
+        "imgUrl": "static/image/11.png"
+      }
+    ]
+  }
+}
