@@ -38,6 +38,7 @@ class Home extends Component {
   }
   componentDidMount () {
     this.props.changeHomeData()
+    console.log('你好')
     this.bindEvents()
   }
   componentWillUnmount () {
